@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Petty Platform**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Laravel**
 
 - 📫 How to reach me **Sahar.chatti.dev@gmail.com**
 
